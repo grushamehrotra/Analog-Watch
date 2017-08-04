@@ -1,6 +1,6 @@
 # Analog-Watch
 
-NOTE: The watch displays random time.
+NOTE: This is a working analog watch which displays random time.
 
 Download both the .java files.
 Destination.java contains the code for initializing the frame using Java Swing. 
